@@ -1,4 +1,4 @@
-## My Stack Problems
+# Geecko Tech Blog
 
 Welcome to Geecko Tech Blog. 
 
