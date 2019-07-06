@@ -39,8 +39,8 @@ urls:
     - text: Authors
       url: /authors/      
 
-url: "https://geecko.tech"
-baseurl: ""
+url: "https://geeckotech.github.io"
+baseurl: "/geecko"
 paginate: 20
 per_page: 20
 paginate_path: "/page/:num/"
