@@ -1,0 +1,57 @@
+title: Geecko.tech
+description: Geecko Tech Blog
+author: Geecko Tech
+github: https://github.com/geeckotech
+about: We are a guild of Indonesian based software developer who loves to write stuff.
+disqus_shortname: geecko
+google_analytics: UA-XXXXXXXX-Y
+avatar_url: /static/img/avatar.png
+
+enableTags: true
+tagarray: []
+
+collections:
+  project:
+    output: true
+    permalink: /project/:path/
+
+social:
+    - icon: fa-facebook
+      link: "#"
+    - icon: fa-twitter
+      link: "#"
+    - icon: fa-linkedin
+      link: "#"
+    - icon: fa-stack-exchange
+      link: "#"
+    - icon: fa-github
+      link: "https://github.com/geecko"
+
+share:
+  twitter_username: github.io
+  fb_appid: 1749788565247320
+
+urls:
+    - text: About Us
+      url: /about/
+    - text: Our Projects
+      url: /projects/
+    - text: Authors
+      url: /authors/      
+
+url: "https://geecko.tech"
+baseurl: ""
+paginate: 20
+per_page: 20
+paginate_path: "/page/:num/"
+markdown: kramdown
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: ['development']

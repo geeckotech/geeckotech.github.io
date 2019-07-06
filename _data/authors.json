@@ -1,0 +1,29 @@
+[
+	{
+		"slug": "virkill",
+		"name": "Arif VirKill Yuliannur",
+		"avatar": "virkill.jpeg",
+        "github": "https://github.com/virkillz",
+        "url": "https://virkill.com",
+        "linkedin": "Jan 2014",
+        "bio": "Hey it's me"
+    },
+	{
+		"slug": "shulhan",
+		"name": "Shulhan",
+		"avatar": "shulhan.png",
+        "github": "https://github.com/shuLhan",
+        "url": "https://kilabit.info",
+        "linkedin": "Jan 2014",
+        "bio": "Hey it's me"
+    },
+	{
+		"slug": "safri",
+		"name": "Safri",
+		"avatar": "safri.png",
+        "github": "https://github.com/firdasafridi",
+        "url": "https://firdasafridi.id",
+        "linkedin": "Jan 2014",
+        "bio": "Hey it's me"
+	}        
+]
